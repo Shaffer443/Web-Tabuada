@@ -1,6 +1,6 @@
 # Web Tabuada
 
-Web Tabuada tem a premissa de digitar um valor numérico no local indicado e após clicar o no botão "Gerar Tabuada", fornecendo no espaço abaixo, os valores correspondentes de 1 a 10, dobre o número digitado.
+Web Tabuada tem a premissa de digitar um valor numérico no local indicado e após clicar o no botão "Gerar Tabuada", retornará no espaço abaixo, os valores multiplicados correspondentes de 1 a 10.
 
 Usado HTML, CSS e JavaSCript.
 
